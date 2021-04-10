@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "66040921330",
+    "project_id": "technical-tea-b0300",
+    "storage_bucket": "technical-tea-b0300.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66040921330:android:56608761eae675df72646b",
+        "android_client_info": {
+          "package_name": "com.tss.foodapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66040921330-vlbah5puokctr7rbsg0p1of21m1m4n6d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiYbXt4Gw4cJiSuJ9yDhIL2QZJ0ZOfVCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66040921330-vlbah5puokctr7rbsg0p1of21m1m4n6d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

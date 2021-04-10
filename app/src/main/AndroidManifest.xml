@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.tss.pakbourini">
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true">
+        <activity android:name="com.tss.pakbourini.Activity.InoviceCart"></activity>
+        <activity android:name="com.tss.pakbourini.Activity.SubCategory" />
+        <activity android:name="com.tss.pakbourini.Activity.GetUserDetails" />
+        <activity android:name="com.tss.pakbourini.Activity.LoactionsMap" />
+        <activity android:name="com.tss.pakbourini.Activity.WhishList" />
+        <activity android:name="com.tss.pakbourini.Activity.ItemsByCategory" />
+        <activity android:name="com.tss.pakbourini.Activity.ItemDetails" />
+        <activity android:name="com.tss.pakbourini.Activity.HomeActivity" />
+        <activity android:name="com.tss.pakbourini.Activity.GetMobileNumber" />
+        <activity android:name="com.tss.pakbourini.Activity.VerifyOtpActivity" />
+        <activity android:name="com.tss.pakbourini.Activity.SignUp" />
+        <activity android:name="com.tss.pakbourini.Activity.Sucessfully" />
+        <activity android:name="com.tss.pakbourini.Activity.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

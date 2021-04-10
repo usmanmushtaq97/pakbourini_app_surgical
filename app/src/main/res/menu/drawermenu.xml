@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/homed"
+            android:title="home"
+            android:icon="@drawable/ic_home"
+          />
+<!--        <item-->
+<!--            android:id="@+id/WishList"-->
+<!--            android:title="Wish List"-->
+<!--            android:icon="@drawable/ic_like"-->
+<!--            />-->
+
+<!--        <item-->
+<!--            android:id="@+id/Map"-->
+<!--            android:title="Map"-->
+<!--            android:icon="@drawable/ic_map"-->
+<!--            />-->
+<!--    </group>-->
+<!--    <group android:checkableBehavior="single">-->
+<!--        <item-->
+<!--            android:id="@+id/contactus"-->
+<!--            android:title="Direct Calls"-->
+<!--            android:icon="@drawable/ic_phone_number"-->
+<!--            />-->
+<!--        <item-->
+<!--            android:id="@+id/rateus"-->
+<!--            android:title="Rat US"-->
+<!--            android:icon="@drawable/ic_baseline_star_rate_24"-->
+<!--            />-->
+<!--    </group>-->
+<!--    <group android:checkableBehavior="single">-->
+<!--        <item-->
+<!--            android:id="@+id/logout"-->
+<!--            android:title="Logout"-->
+<!--            android:icon="@drawable/ic_logout__1_"-->
+<!--            />-->
+    </group>
+</menu>
